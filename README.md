@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **muralikambhampativrhs@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1suS68oXTLExiGlUuxnL8Q7Pz_u6WavTBtJ1H8r2nxOk/edit?usp=drive_link](https://docs.google.com/document/d/1suS68oXTLExiGlUuxnL8Q7Pz_u6WavTBtJ1H8r2nxOk/edit?usp=drive_link)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/murali_kambhampati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murali_kambhampati/" height="30" width="40" /></a>
